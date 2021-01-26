@@ -11,9 +11,9 @@ Since the scripts are short and simple, I won't document them,
 nor rewrite them using English variable names and so on,
 I think it would be an "overkill" of some sort.
 
-Just to be clear, I don't recommend anyone to copy paste these
-as actual solutions to the subject's lab tasks, as it would defeat the sole
-purpose of the subject, and is plagiarism by the way.
+Just to be clear, I don't recommend anyone to copy-paste these
+as actual solutions to the subject's tasks, as it would defeat the sole
+purpose of the subject, not mentioning that it's also considered plagiarism.
 
 Other than that, feel free to use them any way you'd like to,
 for more details, see the `UNLICENSE` file.
